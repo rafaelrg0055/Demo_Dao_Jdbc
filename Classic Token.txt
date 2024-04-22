@@ -1,14 +1,14 @@
 https://www.youtube.com/watch?v=ePCBuIQJAUc
 
 
-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
+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
 
 
 
 
 git remote set-url origin https://<token>@github.com/<username>/<repo>
 
-git remote set-url origin https://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@github.com/rafaelrg0055/Demo_Dao_Jdbc
+git remote set-url origin https://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@github.com/rafaelrg0055/Demo_Dao_Jdbc
 
 git push -u origin main
 
